@@ -169,7 +169,6 @@ class HeatMapTestCase(unittest.TestCase):
             "-0.0",
             "0.1",
         ]
-        print("number of diffs", sum(np.array(actual) != np.array(expected)))
         self.assertEqual(actual, expected, "Expected different values in heat map.")
 
 
