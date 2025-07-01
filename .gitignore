@@ -1,3 +1,7 @@
 .DS_Store
 Machine Learning with Python/Cat and Dog Image Classifier/cats_and_dogs/
 Machine Learning with Python/Cat and Dog Image Classifier/logs/
+.amlignore
+.amlignore.amltmp
+Machine Learning with Python/Cat and Dog Image Classifier/.amlignore
+Machine Learning with Python/Cat and Dog Image Classifier/.amlignore.amltmp
